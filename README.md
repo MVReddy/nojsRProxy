@@ -8,3 +8,5 @@ Usage
 
 ``` $ node server.js host1.com:8000 host2.com:9000```
 
+Automatically it will run the server
+
